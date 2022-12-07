@@ -1,8 +1,5 @@
-import React from "react";
 import styles from "./AlertsSummary.module.css";
 import { AlertsSummaryProps } from "./AlertsSummaryTypes";
-import { MiniGreenTriangle } from "../../consts/images/MiniGreenTriangle";
-import { MiniRedTriangle } from "../../consts/images/MiniRedTriangle";
 
 const AlertsSummary = ({ headTitle, alerts }: AlertsSummaryProps) => {
   return (
