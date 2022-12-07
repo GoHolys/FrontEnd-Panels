@@ -1,0 +1,110 @@
+.topSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.topRightSection {
+  display: flex;
+  align-items: center;
+}
+
+.middleSection {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 19.5px;
+}
+
+.indicators {
+  display: flex;
+}
+
+.bottomSection {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.sortOption {
+  font-weight: 400;
+  font-size: 10px;
+  color: #9e9e9e;
+  margin-right: 4px;
+}
+
+.statusSectionContainer {
+  margin-top: 17.5px;
+}
+
+.statusPercentage {
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.activeIndicator {
+  color: #39e194;
+  background: #0a4400;
+  font-weight: 400;
+  font-size: 10px;
+  border-radius: 4px;
+  padding: 2px 9px 2px 8px;
+  gap: 7px;
+  margin-right: 8px;
+}
+
+.inactiveIndicator {
+  color: #ff275b;
+  background: #500a1b;
+  border-radius: 4px;
+  font-weight: 400;
+  font-size: 10px;
+  padding: 2px 8px;
+  gap: 7px;
+}
+
+.timePeriod {
+  font-size: 10px;
+  margin-right: 3px;
+}
+
+.downArrowIcon {
+  margin-right: 13px;
+}
+
+.sortContainer {
+  display: flex;
+  align-items: center;
+  margin-right: 6px;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  background: transparent;
+  border: none;
+  color: white;
+}
+
+.timeDropDown {
+  position: absolute;
+  top: 1px;
+  list-style-type: none;
+  padding: 0;
+  background: #202020;
+  border-radius: 4px;
+  z-index: 99;
+  justify-content: center;
+}
+
+.dropDownItem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    height: 25px;
+}

@@ -1,0 +1,102 @@
+{
+  "details": {
+    "date": "15.12.2021 14:23:23",
+    "state": "Critical",
+    "sections": [
+      {
+        "id":"1",
+        "headline": "General",
+        "fields": [
+          {
+            "id": "1",
+            "title": "Event ID",
+            "value": "73"
+          },
+          {
+            "id": "2",
+            "title": "Host ID",
+            "value": "22cs.23ab_46.67ccgf223"
+          },
+          {
+            "id": "3",
+            "title": "Email",
+            "value": "Libat@inkod.com"
+          },
+          {
+            "id": "4",
+            "title": "User name",
+            "value": "N/A"
+          }
+        ]
+      },
+      {
+        "id":"2",
+        "headline": "Details",
+        "fields": [
+          {
+            "id": "1",
+            "title": "File name",
+            "value": "C:/Users/lolo/ppppp.."
+          },
+          {
+            "id": "2",
+            "title": "URL",
+            "value": "https://www.abap.com/h?..."
+          },
+          {
+            "id": "3",
+            "title": "Mine type",
+            "value": "m/w"
+          },
+          {
+            "id": "4",
+            "title": "Assoicated Alerts",
+            "value": "8"
+          },
+          {
+            "id": "5",
+            "title": "Assoicated Alerts",
+            "value": "9"
+          }
+        ]
+      },
+      {
+        "id":"3",
+        "headline": "Agents",
+        "fields": [
+          {
+            "id": "1",
+            "title": "Enviroment",
+            "value": "aaa@ippdoo.com"
+          },
+          {
+            "id": "2",
+            "title": "Version",
+            "value": "778.89.32.82"
+          },
+          {
+            "id": "3",
+            "title": "IP",
+            "value": "190.9.56.1,190.18.1.10"
+          }
+        ]
+      },
+      {
+        "id":"4",
+        "headline": "Associated Alerts",
+        "fields": [
+          {
+            "id": "1",
+            "title": "Version",
+            "value": "912.2828.190"
+          },
+          {
+            "id": "2",
+            "title": "Version",
+            "value": "912.2828.190"
+          }
+        ]
+      }
+    ]
+  }
+}

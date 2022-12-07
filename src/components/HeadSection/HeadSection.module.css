@@ -1,0 +1,23 @@
+.topSection {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.title {
+  color: white;
+  margin-left: 8px;
+}
+
+.leftSection {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+
+.bottomSection{
+  margin-bottom: 14px;
+
+}
+
+

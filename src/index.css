@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Mulish';
+  src: local('Mulish'), url(./fonts/Mulish-Regular.ttf) format('truetype');
+}
+
+body,
+html {
+  font-family: 'Mulish';
+  color:white
+}
+
+

@@ -1,0 +1,28 @@
+.cardContainer {
+  background: #303030;
+  width: 300px;
+  height: 740px;
+  padding: 16px 16px 16px 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bottomSection {
+  margin-top: auto;
+}
+
+.headRightSection {
+  display: flex;
+  align-items: center;
+}
+
+.exportButton {
+  margin-bottom: 8px;
+}
+
+.threeDotsIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

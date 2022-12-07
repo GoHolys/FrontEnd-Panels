@@ -1,0 +1,38 @@
+.switch {
+  height: 18px;
+  width: 36px;
+  left: 0px;
+  top: 18px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  cursor: pointer;
+  background: #58c86a;
+}
+
+.slider {
+  height: 13.5px;
+  width: 13.5px;
+  left: 20.2498px;
+  top: 15.75px;
+  border-radius: 8px;
+  background-color: white;
+  margin-right: 2.2px;
+  transition-duration: 0.4s;
+}
+
+input {
+  height: 0;
+  width: 0;
+  margin: 0;
+}
+
+input:checked + .slider {
+  transform: translateX(-18.9px);
+  transition-duration: 0.4s;
+}
+
+.switch:has(> input:checked) {
+  background-color:  rgb(255, 51, 51);
+}

@@ -1,0 +1,23 @@
+.alertsContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.alertTitle {
+  color: #9e9e9e;
+  font-weight: 400;
+  font-size: 11px;
+  margin-bottom: 8px;
+}
+
+.alertValue {
+  font-weight: 600;
+  font-size: 18px;
+  color: #fcfcfc;
+}
+
+.headline {
+  font-weight: 700;
+  font-size: 12px;
+}

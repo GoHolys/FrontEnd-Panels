@@ -1,0 +1,103 @@
+{
+    "details": {
+      "date": "1.15.1991 6:26:09",
+      "state": "Critical",
+      "sections": [
+        {
+          "id":"1",
+          "headline": "General",
+          "fields": [
+            {
+              "id": "1",
+              "title": "Event ID",
+              "value": "786786786786"
+            },
+            {
+              "id": "2",
+              "title": "Host ID",
+              "value": "yugyugyug"
+            },
+            {
+              "id": "3",
+              "title": "Email",
+              "value": "uyg@aj.com"
+            },
+            {
+              "id": "4",
+              "title": "User name",
+              "value": "user"
+            }
+          ]
+        },
+        {
+          "id":"2",
+          "headline": "Details",
+          "fields": [
+            {
+              "id": "1",
+              "title": "File name",
+              "value": "C:/Users/sharondagan/do..."
+            },
+            {
+              "id": "2",
+              "title": "URL",
+              "value": "https://www.google.com/h?..."
+            },
+            {
+              "id": "3",
+              "title": "Mine type",
+              "value": "Application/pdf"
+            },
+            {
+              "id": "4",
+              "title": "Assoicated Alerts",
+              "value": "4"
+            },
+            {
+              "id": "5",
+              "title": "Assoicated Alerts",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "id":"3",
+          "headline": "Agents",
+          "fields": [
+            {
+              "id": "1",
+              "title": "Enviroment",
+              "value": "Libat@inkod.com"
+            },
+            {
+              "id": "2",
+              "title": "Version",
+              "value": "97.02988.3312.12"
+            },
+            {
+              "id": "3",
+              "title": "IP",
+              "value": "192.168.56.1,192.168.1.100"
+            }
+          ]
+        },
+        {
+          "id":"4",
+          "headline": "Associated Alerts",
+          "fields": [
+            {
+              "id": "1",
+              "title": "Version",
+              "value": "97.02988.3312.12"
+            },
+            {
+              "id": "2",
+              "title": "Version",
+              "value": "97.02988.3312.12"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
