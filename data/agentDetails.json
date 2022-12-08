@@ -6,6 +6,7 @@
       { "id": "3", "title": "Installed endpoints", "value": "3k" }
     ],
     "policyGroup": {
+      "id": "1",
       "title": "Assigned policy group",
       "value": "Default"
     },
